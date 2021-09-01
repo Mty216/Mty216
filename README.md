@@ -2,7 +2,7 @@
 ### こんにちは👋。私の名前はトゥンケーで17歳です。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
+  <img src="https://c.tenor.com/PRxVJ5MsGPQAAAAC/death-parade.gif"/>
 </p>
 
 <p align="center">
