@@ -7,7 +7,7 @@
 
 <p align="center">
  <a target="_blank" href=https://github.com/Mty216>
-  <img src=https://img.shields.io/github/followers/Mty216/>
+  <img src=https://img.shields.io/github/followers/mty216/>
   &nbsp;
 </a>
 
