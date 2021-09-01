@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. My name is Tuncay and 17 years old.
+### こんにちは👋。私の名前はトゥンケーで17歳です。
 
 <!--
 **Mty216/Mty216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
