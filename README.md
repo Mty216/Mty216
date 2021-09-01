@@ -5,27 +5,6 @@
   <img src="https://c.tenor.com/PRxVJ5MsGPQAAAAC/death-parade.gif"/>
 </p>
 
-<p align="center">
- <a target="_blank" href=https://github.com/Mty216>
-  <img src=https://img.shields.io/github/followers/mty216.png/>
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://codeforces.com/profile/#>
-  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://twitter.com/#>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=mailto:muhammettuncayyilmaz@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
-</a>
-</p>
 
 <hr>
 <h3 align="center">Show me your cards</h3>
